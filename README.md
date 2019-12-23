@@ -5,3 +5,4 @@ springcloud-sso单点登陆(二)：https://www.jianshu.com/p/074653aaa405
 # 调用方法
 启动起两个项目：oauth2-server、business-user
 #### 获取令牌
+![获取令牌.png](https://github.com/xcocean/spring-cloud-sso/blob/master/SQL/getToken.png/w/600)
