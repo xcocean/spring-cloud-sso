@@ -3,5 +3,5 @@
 简书文章：springcloud-sso单点登陆(一)：https://www.jianshu.com/p/80b125ea8e76  
 springcloud-sso单点登陆(二)：https://www.jianshu.com/p/074653aaa405  
 # 调用方法
-启动起两个项目  
+启动起两个项目：oauth2-server、business-user
 #### 获取令牌
